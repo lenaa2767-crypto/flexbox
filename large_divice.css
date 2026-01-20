@@ -1,0 +1,14 @@
+body{
+    font-size: 18px;
+    padding: 20px;
+}
+    header .navbar {
+        padding: 0;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+.ul{
+    flex-direction: row;
+    gap: 30px; 
+    
+}
